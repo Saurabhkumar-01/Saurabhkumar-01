@@ -2,7 +2,7 @@
 <h3 align="center">BCA Graduate | Salesforce Developer & Administrator | Completed 15+ Trailhead Badges & Superbadges 🏅 | Actively exploring real-world Salesforce projects | Open to collaborate & learn</h3>
 
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning **Pandas Library**
+- 🌱 I’m currently learning **Salesforce Lightning Experience ⚡**
 
 - 👨‍💻 All of my projects are available at [saurabh99.netlify.app](saurabh99.netlify.app)
 
