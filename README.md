@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">BCA Graduate | Data Analytics Enthusiast | Excel, SQL, Power BI & Python Expert</h3>
+<h3 align="center">BCA Graduate | Salesforce Developer & Administrator | Completed 15+ Trailhead Badges & Superbadges 🏅 | Actively exploring real-world Salesforce projects | Open to collaborate & learn</h3>
 
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning **Pandas Library**
 
 - 👨‍💻 All of my projects are available at [saurabh99.netlify.app](saurabh99.netlify.app)
 
-- 💬 Ask me about **Excel, SQL, Power BI, Python, Pandas & NumPy**
+- 💬 Ask me about **Apex, SOQL, Flows, Lightning, LWC**
 
 - 📫 How to reach me **kumarsaurabh87637@gmail.com**
 
-- ⚡ Fun fact **I've used data analytics to optimize my snack consumption-results :more snacks, fewer regrets!**
+- ⚡ Fun fact **I can debug Apex faster than I can decide what to eat for lunch 🍕💻!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
